@@ -4,3 +4,5 @@ secure_config.yml
 build/
 # IDE Files
 .idea/
+# Cached pytest files
+.pytest_cache/
