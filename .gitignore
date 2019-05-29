@@ -2,3 +2,5 @@
 secure_config.yml
 # Build files
 build/
+# IDE Files
+.idea/
